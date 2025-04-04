@@ -18,7 +18,7 @@ const OurProjects = () => {
           />
   
         {/* Right Side - PKCH Thalassemia Logo */}
-        <Image src="/hawa logo whit.png"
+        <Image src="/hawa_logo_white.png"
           width={100}  // Set a fixed width
           height={150} 
         style={{ width: "auto", height: "auto" }} 
